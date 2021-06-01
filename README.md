@@ -12,3 +12,8 @@
 
 * After RANSAC
 ![image](https://user-images.githubusercontent.com/17696533/120344327-7c9ee280-c2c7-11eb-8d7e-573607ae0917.png)
+
+
+## Unsupervised learning Image dimensionality reduction
+* Visualizing a dataset of images in 2 dimensions using unsupervised learning
+![image](https://user-images.githubusercontent.com/17696533/120346398-55491500-c2c9-11eb-85a3-3205d728e15e.png)
