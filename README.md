@@ -8,6 +8,7 @@
 
 ## RANSAC plane fitting
 * Apply RANSAC to plane fit point cloud provided
-* ![image](https://user-images.githubusercontent.com/17696533/120343648-e5398f80-c2c6-11eb-9a20-d6e30f8ca2e4.png)
+![image](https://user-images.githubusercontent.com/17696533/120343648-e5398f80-c2c6-11eb-9a20-d6e30f8ca2e4.png)
 
 * After RANSAC
+![image](https://user-images.githubusercontent.com/17696533/120344327-7c9ee280-c2c7-11eb-8d7e-573607ae0917.png)
